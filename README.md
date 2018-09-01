@@ -5,7 +5,7 @@ The app which I created is simple ad efficient. In the app I have set a specific
 
 ### App Walk-though
 
-https://imgur.com/p93rZGP
+https://imgur.com/p93rZGP.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
